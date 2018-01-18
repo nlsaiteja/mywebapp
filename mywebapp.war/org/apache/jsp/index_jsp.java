@@ -89,7 +89,7 @@ return;
 
       out.write("<html>\r\n");
       out.write("<body>\r\n");
-      out.write("<h2>Hello World!</h2>\r\n");
+      out.write("<h2>Hello Github!</h2>\r\n");
       out.write("</body>\r\n");
       out.write("</html>\r\n");
     } catch (java.lang.Throwable t) {
